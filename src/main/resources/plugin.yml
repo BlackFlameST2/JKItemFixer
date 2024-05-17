@@ -1,0 +1,4 @@
+name: JKItemFixer
+version: '${project.version}'
+main: ru.blackflamest.jkitemfixer.main
+api-version: '1.20'
